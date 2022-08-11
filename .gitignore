@@ -3,3 +3,5 @@
 # ignore cache
 __pycache__
 *.pyc
+#Ignore all Node Module Folders Recursively
+**node_modules
